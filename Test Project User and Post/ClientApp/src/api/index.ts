@@ -1,0 +1,1 @@
+export const BaseApi="https://localhost:7241/api"
